@@ -1,15 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.css';
 import './index.css';
 import SearchMovies from "./searchMovies";
 
 class Main extends React.Component {
   render() {
     return (
-      <div className="container">
-        <h1 className="title">React Movie Search</h1>
-        <SearchMovies/>
-      </div>
+        <div className="container">
+            <div className="jumbotron bg-info text-white">
+            <h1 className="display-2">React Movie Search</h1>
+            <p>A react app made using <strong>create-react-app</strong> and <strong>The Movie Databse API</strong></p>
+            </div>
+            <div className="container">
+                <SearchMovies/>
+            </div>
+        </div>
     );
   }
 }
