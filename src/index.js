@@ -9,7 +9,7 @@ class Main extends React.Component {
     return (
         <div className="container">
             <div className="jumbotron bg-info text-white">
-            <h1 className="display-2">React Movie Search</h1>
+            <h1 className="display-2">Film Finder</h1>
             <p>A react app made using <strong>create-react-app</strong> and <strong>The Movie Databse API</strong></p>
             </div>
             <div className="container">
