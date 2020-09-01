@@ -1,7 +1,10 @@
 {
   "homepage": "http://cdh77.github.io/movie-search",
-  "name": "movie-search",
+  "name": "film-finder",
   "version": "0.1.0",
+  "repository": "https://github.com/cdh77/movie-search.git",
+  "author": "cdh77",
+  "license": "MIT",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
