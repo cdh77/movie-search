@@ -1,9 +1,12 @@
-# Movie-search
+# Film Finder
 
 
-A react app made using `create-react-app` and [The Movie Databse API](https://www.themoviedb.org/)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> First off, thank you for considering to Film Finder. It's people
+> like you that make Film Finder such a great tool.
+>
+> A react app made using `create-react-app` and [The Movie Databse API](https://www.themoviedb.org/)
+>
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts
 
@@ -39,6 +42,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 - You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 - To learn React, check out the [React documentation](https://reactjs.org/).
+- [Github Docs](https://docs.github.com/en)
+- [Github Guides](https://guides.github.com/en)
 
 
 ### Powered by:-  [The Movie Database](https://www.themoviedb.org/)
