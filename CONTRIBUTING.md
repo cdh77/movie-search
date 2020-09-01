@@ -18,13 +18,19 @@ a branch with a descriptive name.
 
 ### Getting Started
 
-**In the Terminal**
+### `yarn install`
 
-- `cd movie-search`
-- `yarn install`
-- `yarn start`
+Install Dependancies
 
-This will start a dev server. Enter the link provided into your browser.
+
+### `yarn start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
 
 ### Implement your fix or feature
 
